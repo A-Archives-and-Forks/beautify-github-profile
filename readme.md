@@ -1,3 +1,18 @@
+Hello my friends
+
+if you see this text, please help us Iranians, we don't have what is normal for you, like connecting to a free internet.
+
+Maybe you can easily browse the internet right now, but to publish this text, I have to bypass all the restrictions or I have to wait about two weeks or more 300 hours until the Islamic Republic government removes the filtering from GitHub domains.
+
+[Please don't ignore this simple message and do whatever you can for us Iranians.](https://github.com/rzashakeri/beautify-github-profile/issues/90)
+ 
+Thank you.
+
+
+---
+
+
+
 <img src="https://raw.githubusercontent.com/rzashakeri/beautifygithubprofile/master/cover-repo.jpg">
 
 <p align="center">
